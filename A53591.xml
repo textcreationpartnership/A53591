@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Overtures for correcting and amending the laws humbly presented to His Grace the Duke of Queensberry, His Majesties High Commissioner, and the Honourable court of Parliament / by a well-wisher to his countrey.</title>
+            <author>J. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53591</idno>
+            <idno type="STC">Wing O644</idno>
+            <idno type="STC">ESTC R4508</idno>
+            <idno type="EEBO-CITATION">13081164</idno>
+            <idno type="OCLC">ocm 13081164</idno>
+            <idno type="VID">97231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53591)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97231)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 747:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Overtures for correcting and amending the laws humbly presented to His Grace the Duke of Queensberry, His Majesties High Commissioner, and the Honourable court of Parliament / by a well-wisher to his countrey.</title>
+                  <author>J. F.</author>
+               </titleStmt>
+               <extent>[4], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mainly about property in land.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law reform --  England.</term>
+               <term>Real property --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97231:1" rendition="simple:additions"/>
+            <p>OVERTURES FOR Correcting and Amending the LAWS. Humbly Preſented to his Grace the Duke of <hi>Queensberry,</hi> His Maje<g ref="char:EOLhyphen"/>ſties high Commiſſioner, And the Honourable Court of PARLIAMENT.</p>
+            <p>
+               <hi>By a Well-wiſher to his Countrey.</hi>
+            </p>
+            <p>Printed in the Year 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97231:2" rendition="simple:additions"/>
+            <pb facs="tcp:97231:2"/>
+            <head>Dedication.</head>
+            <opener>
+               <salute>May it pleaſe your Grace, <hi>&amp;c.</hi>
+               </salute>
+            </opener>
+            <p>ALbeit our neighbouring Nations be ſurfeited, yet it is the Misfortune of this to be starved, through want of Municipal Laws, for ſecuring the Subjects in their Rights, by known and fixed Statutes, and not leaving and expoſing the ſame to the arbitrary Sentiments of Judges. And though for ſeveral Centuries ago, and even to this time, there have been reiterated Commiſſions appointed for reviſing of the Laws, which are made, and Correcting thereof, or enacting what new Laws were neceſsar and expe<g ref="char:EOLhyphen"/>dient for the Good of the Leidges, yet the ſame have never hitherto taken effect, being neglected by theſe who were appointed, having no ſuitable Encouragement for their Pains upon that account: Likeas, Parliaments being only called for Emer<g ref="char:EOLhyphen"/>gencies, requiring ſpeedy diſpatch, through the Weight of theſe Affairs, had not the conveniency to call for an Account of what was done by theſe commiſſionat, as ſaid is. And it being the Cuſtom, Intereſt and Prudence of Princes, to gra<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fie their Subjects with ſuch Laws at the opening of Parliaments, as may eaſe them of ſevere and penal Rigidities, impoſed more by exorbitant Cuſtom than by clear and poſitive Law, or material Justice and Equity, ſuch as Eſcheats, Recognitions, Wards and Marriages, and the like, which belong to His Majeſty, which little or nothing augment the Theſaury, and yet great Hardſhip upon the Subjects, by gifting to Donatars, who have ſcrewed the ſame far beyond their due Limits, which are ſo <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, that there is no need of Instances, and which have much pre<g ref="char:EOLhyphen"/>judged and vexed theſe who ſuffered thereby, and irritat them not only to Clamor againſt the ſame, but alſo the Government it ſelf: For remeed whereof <hi>(in part)</hi> theſe following Overtures are offered to your Grace, and the Honourable Court of Parliament, which Natively center at you, not only in reſpect of your preſent Character, but alſo of your Interest and Quality, the first being equal to what ye can deſire, and the laſt to what is here attainable, ſo that nothing remains for your Grace and the Honourable Houſe, but to ſecure your ſelves by juſt and in<g ref="char:EOLhyphen"/>violable Laws, which is now the proper Seaſon, the Nation being in full and tran<g ref="char:EOLhyphen"/>quil Peace; And in this you have for your Pattern, the great Emperor <hi>Juſtinian,</hi> who compiled the whole <hi>Roman</hi> Laws now extant, after he had made an end of Fighting, and ſubjugated the World to his Scepter, and by doing whereof, ye w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll cure (at the least,) eaſe the Nation of ſome of its preſent Maladies under which it labours. I doubt not but others may addreſs your Grace with Overtures, which may be both more neceſſar and material; And therefore I leave theſe to ſuch as are more fit than I, Seing <hi>none omnibus unum eſt.</hi>
+            </p>
+            <p>
+               <hi>Quod placet hic ſpinas colligit ille roſas.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97231:3"/>
+            <pb n="1" facs="tcp:97231:3"/>
+            <head>OVERTURS Anent <hi>LAWS</hi> to be made.</head>
+            <div type="part">
+               <head>And firſt, Anent Husbands and Wives Interests and Rights to the Estates of each others.</head>
+               <p>SEing by Our Law, where the Husbands Eſtate conſiſts only of Bonds bearing Annualrent; The Wife when Relict hath neither Third of the ſame, nor Terce of the Annualrents. That therefore it be Statute ſhe have one of them.</p>
+               <p n="2">2. That the Husbands <hi>Jus Mariti</hi> extend no ways to the Wifes Heretable Eſtate, but only the Annualrents thereof accreuing before, and during the Marriage: And that he nor his Creditors nor Succeſſors have no farder Inte<g ref="char:EOLhyphen"/>reſt in her Moveable Debts or Goods, except there be expreſs Proviſion made by her thereof; And if the Husband hath not exerced his <hi>Jus Mariti</hi> in his own time, as to the uplifting of theſe Annualrents, The Right thereof ſhall ceaſe and remain with her and her Repreſentatives, but with the burden of what Debts he hath payed for her.</p>
+               <p n="3">3. That the Husband ſhall not be lyable for the Wifes heretable Debt, nor yet for her Moveable due before the Marriage, nor contracted during the ſame, except where it is neceſſar<g ref="char:punc">▪</g> and for the behove of the Husband, and that the Quantity and Contracting ſhall be probable by the Wifes Oath, and he ly<g ref="char:EOLhyphen"/>able, unleſs he can give his Oath of Calumny that he has reaſon to believe ſhe will depone to his prejudice, of deſign to burden him with an unjuſt Debt.</p>
+               <p n="4">4. The Marriage being Solemnized and the parties once Beded, all the O<g ref="char:EOLhyphen"/>bligations thereanent to be valid and effectual as to all effects, tho' it laſt not Year and Day.</p>
+               <p n="5">5. That Wives perſonal Obligments during the Marriage be null, as alſo Renounciations of their Joyntures or any part thereof, without conſent of their Parents (if Living,) or two of their neareſt Relations (if their Parents be Dead) except it be Remunerated by giving the equivalent both as to Se<g ref="char:EOLhyphen"/>curity and Quantity.</p>
+            </div>
+            <div type="part">
+               <head>Anent Parents and Children.</head>
+               <p n="1">1. That it ſhall be leiſum for Parents on Death-bed to provide their Daugh<g ref="char:EOLhyphen"/>ters and younger Children by Bond or Legacies, and which ſhal affect their Exe<g ref="char:EOLhyphen"/>cuters and Heirs, The ſamen not to exceed  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  years Rent of their Eſtate, And that the ſaid Eſtate be free, and if it be not, that the Proviſions ſhall only be ſuſtained in ſo far as they and the Debt ſhall extend to ſix years purchaſe thereof.</p>
+               <p n="2">2. That the Parents be obliged to Aliment and Educat their Children, ex<g ref="char:EOLhyphen"/>cept they can give a reaſonable Cauſe to the contrair; And Children to maintain their poor Parents, according to the Quality of the Parents, and the condition of the Childrens Eſtate.</p>
+               <pb n="2" facs="tcp:97231:4"/>
+               <p n="3">3. That for the publick good it ſhall be leiſum for Children to leave their Parents, and go to any Trade or Imployment after they have attained to 14 years of Age, if the Parents cannot Educat therein, Or ſome other that may be as much to their Credit and Profit.</p>
+               <p n="4">4. That it ſhall be leiſum to take the poor Children within ten years, and to retain them as Servants untill they be 30 years old.</p>
+            </div>
+            <div type="part">
+               <head>Anent Tutors, Curators and their Pupills.</head>
+               <p n="1">1. That Tutors of Law be cognoſced to be not only of the Age and Relation requiſit, but alſo that they are reputed fit to manage, and of good Fame and Reputation.</p>
+               <p n="2">2. Where Tutors are named, whether with or without a <hi>Quorum,</hi> or <hi>ſine quibus non,</hi> if any one of theſe named accept, he ſhall ſeclude the Tutor of Law, unleſs he alſo have been named one of the Tutors by the Defunct; and that theſe who act and behave as Tutors and are not legally entered and admitted to the Office, ſhall not only be lyable as Tutors or Curators, but ſhall have no allowance of their Charges and Expenſes that they have laid out either upon the Pupil or his Affairs.</p>
+               <p n="3">3. That Tutors and Curators ſhall be obliged to lend out for Intereſt their Pupils Money, whether principal Sums, Annualrents or Rents of Lands, and pay intereſt therefore, from the next Term at which it came in their hands, except they have emitted publick Edicts that the ſame is in their hands, and was ready to be lent upon Security.</p>
+               <p n="4">4. That Tutors Teſtamentars are not to be lyable for Omiſſions, and that it ſhall be leiſum for Tutors and Curators to accept with that Quality, and that the Judge admit the ſame, unleſs the neareſt of Kin or ſome other perſon intereſted offer themſelves or others to undertake the office ſimply without a<g ref="char:EOLhyphen"/>ny ſuch Qualification.</p>
+               <p n="5">5. That where there are more Tutors and Curators than one, and if any one of them act or intromet, he is firſt to be conveened and diſcuſt before the reſt be lyable, but ſo as if he be not ſound ſolvent, The Pupil ſhall have re<g ref="char:EOLhyphen"/>courſe againſt the reſt for the Expenſes he has been at in purſuing and diſcuſ<g ref="char:EOLhyphen"/>ſing the ſaid inſolvent perſon.</p>
+               <p n="6">6. That all Curators named, Depon, that they have not uſed any means, or made any deſire or motion to the Pupil or any other for their being elected, and if they refuſe to Depone, That they be rejected.</p>
+               <p n="7">7. That Minors be not allowed to make Teſtaments without conſent of their Curators, But that Legacies left by them (expreſſing the Cauſe) be al<g ref="char:EOLhyphen"/>lowed according as the ſame ſhall be found juſt by the Judge Ordinar.</p>
+               <p n="8">8. That there be no Action ſuſtained whither Petitory or Poſſeſſory againſt a Minor as to Lands or Heretable Rights, wherein his Father was by vertue of legal Titles in poſſeſſion uninterrupted Year and Day.</p>
+               <p n="9">9. That no Interdictions be ſuſtained, but ſuch as are after Cognition of the Cauſe thereof taken by the Judge Ordinar, and that it ſhall be leiſum for any near Relation or perſons intereſted in the Preſervation of any perſons E<g ref="char:EOLhyphen"/>ſtate, To apply to the Lords of Seſſion for cognoſcing the Defender to be <hi>Pro<g ref="char:EOLhyphen"/>digus,</hi> and to be interdicted accordingly, and that the ſame ſhall not be taken off, but by the ſentence of a Judge <hi>&amp; cauſâ cognitâ.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Anent Obligations and Contracts.</head>
+               <p n="10">10. That where by Contracts betwixt two parties, there is ſometimes Clauſes conceived in favours of third parties, That it ſhall be in the power
+<pb n="3" facs="tcp:97231:4"/>of the parties Contracters, to nullifie or diſcharge theſe Clauſes without conſent of that third party, unleſs the Contract be in his hand.</p>
+               <p n="2">2. That no Verbal Conditions, Promiſes or Pactions ſhall be Probable by Witneſſes, being lyable to Miſtake, and uncertain as to the deſign and mean<g ref="char:EOLhyphen"/>ing of the Promiſer.</p>
+               <p n="3">3. That the Depoſitation of Writs, or the Conditions of granting thereof, ſhall not be Probable by Witneſſes, or the Oath of the Depoſitar or Haver, but only by Writ or Oath of the Granter, becauſe that is in effect to evacuat Writs by Witneſſes, or to make up the ſame thereby, which is to make Wit<g ref="char:EOLhyphen"/>neſſes as valid and effectual a mean of Probation as Writ.</p>
+               <p n="4">4. That albeit by our Law, Intereſt be not due for Money, without Pa<g ref="char:EOLhyphen"/>ction, until the Debitor be charged and denunced, which is needleſs Trouble, and very Expenſive, and may tend to the Prejudice of Creditors, if he ſhould happen to be denunced; that therefore after ſimple requiſition of the Money due by a liquid Bond, Ticket, Subſcribed Accompt, or the like, Annualrent ſhall be due even as if there were an expreſs Paction for Payment thereof, ſe<g ref="char:EOLhyphen"/>ing by the Requiſition the Debitor is <hi>in mora.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Anent Infeftments and Real Rights of Lands.</head>
+               <p n="1">1. That where any Perſon ſtands Infeft in Lands, as having purchaſt the ſame himſelf, or as Heir to ſome of his Predeceſſors, there ſhall be no more requiſite for eſtabliſhing the Right thereof in the perſon of his Heir who is to ſucceed him in the ſaids Lands, but only a general Service before the She<g ref="char:EOLhyphen"/>riff of the Shire where the Lands ly, cognoſcing the Purſuer of the Brieve to be General Heir, and of Line<g ref="char:punc">▪</g> or ſuch an Heir as is mentioned in the Brieve; and this being Regiſtrat and Retoured, ſhall be a ſufficient Right to the per<g ref="char:EOLhyphen"/>ſon ſerved, without any further Progreſs or Solemnity in Law, conform to the Law of <hi>France,</hi> and many other Nations.</p>
+               <p n="2">2. That where there is Infeftment taken in name of the perſons firſt inſtitute, and to theſe <hi>nominatim</hi> ſubſtitute, that theſe ſubſtitute ſhall not be put to fur<g ref="char:EOLhyphen"/>ther trouble for ſtating the Rights in their perſons, failing theſe who are in<g ref="char:EOLhyphen"/>ſtitute or ſubſtitute before them but only cognoſced by an Inqueſt, that theſe perſons are failied, and that he is next ſubſtitute, and that the ſame being cognoſced, ſhall be a valid Right without any farther.</p>
+            </div>
+            <div type="part">
+               <head>Anent Superiorities and the Caſualities thereof.</head>
+               <p n="1">1. That the King receive all ſingular Succeſſors <hi>gratis,</hi> ſeing the ground of Law for paying Compoſitions, is, that the Superior receives a Stranger in place of his Vaſſal and that there is no Subject can be repute a Stranger to the King, and ſo there ought nothing to be exacted for his Entry, and the exacting there<g ref="char:EOLhyphen"/>of is a Novelty, not being ſo from the beginning.</p>
+               <p n="2">2. Seing the Superior gets all his Duties and Caſualities from the Vaſſal, or his Fee, as well when not Entered as when he is; that therefore there be no Nonentry eſteemed in Law, unleſs the Vaſſal be contumacious and convicted of Contempt againſt his Superior, and that from and after a Decreet of Non<g ref="char:EOLhyphen"/>entry to be recovered againſt him, he always being Major.</p>
+               <p n="3">3. That the Value of Vaſſals Marriages be only eſtimat and proportional to the Value of the Fee held by them in Ward, and wherein no regard is to be had to their other Eſtate Perſonal or Real.</p>
+               <p n="4">4. Or rather that the Wards be turned into Feu, and an eſtimat put on the Marriage, by which the captious way of catching Vaſſals, by making offers of Matches to them, will be remeeded; and this Eſtimat put upon their Mar<g ref="char:EOLhyphen"/>riages,
+<pb n="4" facs="tcp:97231:5"/>to be either according to their Charter extant, or according to the pre<g ref="char:EOLhyphen"/>ſent Valuation of their Land, which may be either done by Taxing the Mar<g ref="char:EOLhyphen"/>riage, or making the Feu-duty more, in lieu of all.</p>
+               <p n="5">5. That no Eſcheats (Liferent or Movable) fall, or be gifted, to the pre<g ref="char:EOLhyphen"/>judice of lawful Creditors, and that they have no place untill all the Rebels Debts be payed ſeing by the Law of all other Nations it is a received Maxime, that <hi>Ita bona debent tranſire ad fiſcum qualia fuerunt apud delinquentem &amp; cum omnibus oneribus &amp; debitis.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Anent Fiars and Liferenters of Lands and Sume, and the Courteſie due to Husbands.</head>
+               <p n="1">1. That the laſt Termination being of the Heirs of any who are inſtitute, infer that perſon to be the Fiar.</p>
+               <p n="2">2. That the Terce extend to Lands and Teinds, and all that is Heretable, and Bonds bearing Annualrent, ſeing the Relicts have no Third thereof, and therefore ought to have a Liferent-Terce, where there is no Contract of Mar<g ref="char:EOLhyphen"/>riage.</p>
+               <p n="3">3. That Superiors receive Liferenters <hi>gratis,</hi> without any Compoſition, ſeing there is no change of Vaſſals, and that they ought not to be put to the Trouble and Expenſe of Adjudging upon the Obligment in the Contract of Marriage.</p>
+               <p n="4">4. That Tochers and Joyntures be both due, tho' the Marriage ſubſiſts not Year and Day, if it be Conſummat by going to Bed; and that the Husband have the Courteſie of all Lands wherein the Wife either was or might have been Infeft, if the Marriage be Conſummat as ſaid is.</p>
+            </div>
+            <div type="part">
+               <head>Of Teinds.</head>
+               <p>Teinds being Jewiſh, and a part of the Levitical Law, and of no Di<g ref="char:EOLhyphen"/>vine Right now under the Goſpel, that therefore they be Conſolidat with the Stock, and the Proprietar or Tackſ-man put to purſue for the Price that ſhall be appointed to be payed therefore, and that the Price of the Teinds be firſt applyed for buying a Maintainance for the Miniſter, whether of Land or An<g ref="char:EOLhyphen"/>nualrent, out of the Property, which in all poſſible Events may be a Com<g ref="char:EOLhyphen"/>petency; and if in after times it ſhall be neceſſar to augment the ſame, that it be done by a perſonal Pole of all within the Paroch, to be caſten upon them yearly.</p>
+            </div>
+            <div type="part">
+               <head>Of Tacks.</head>
+               <p n="1">1. That Tacks ſet at the uſual and ordinary Avail of Lands in that place, or at which theſe were formerly ſet, ſhall be valid againſt Wards, Eſcheats, Nonentries, Forfaultures, and all other Caſualities of Superiority.</p>
+               <p n="2">2. That Tacks ſet be inviolably obſerved, that Tennents may be thereby en<g ref="char:EOLhyphen"/>couraged to Plant and Incloſe, Meliorat and Cultivat the Land, and that they Enjoy the ſame peaceably during all the years thereof; providing always, that if the Maſter (for his own neceſſary uſe and utility) ſhall think fit, either to Labour or Incloſe the ſame himſelf, either in whole or in part, that it ſhall be leiſum for him to do the ſame, notwithſtanding of the ſaid Tack, he always refounding to the ſaid Tennent, what Graſſum or other Gratification he has got for making the ſaid Tack, proportionally and effeiring to the Graſſum and number of Years he was to enjoy the ſame; or if there was no Graſſum, the Maſter paying the Damnages that ſhall be found the Tennent has ſuſtained thorow his being removed from his Poſſeſſion as ſaid is.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:97231:5"/>
+               <head>Of Tranſmiſſion of Rights, and alſo of the Extinction thereof.</head>
+               <p n="1">1. That Superiors be bound to accept of Reſignations <hi>in favorem,</hi> and that an Inſtrument of Refuſal, ſhall be as to all intents equivalent to an Charter and Seaſin by the ſaid Superior, unleſs at the taking of the ſaid Inſtrument he give the Reaſon of his Reſuſal, and inſtruct the ſame before the Judge Ordinar within Year and Day, to whom it is remitted to judge both the Relevancy and Verity thereof.</p>
+               <p n="2">2. That Recognitions be abrogat, at leaſt as to the King's Vaſſals, ſeing all Subjects are alike as to him, and it imports not which of his Majeſties Subjects be his Vaſſals in any particular Fee.</p>
+               <p n="3">3. That there be no Recognition in Taxt-Ward, providing the Feu-duty payable out thereof, be effeir<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd to the Taxt-duty and Marriage, if the whole be feued, and proportionally if a part; In which ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Superior can pretend no Damnage or Loſs.</p>
+            </div>
+            <div type="part">
+               <head>Anent Preſcription and Interruption.</head>
+               <p n="1">1. That there be a difference made as to the Preſcription of Moveable and Heretable Rights and that the ſame be ſhortned in both.</p>
+               <p n="2">2. Seing the firſt regiſtrat Seaſin is repute a publick Infeftment, that there<g ref="char:EOLhyphen"/>fore there be no longer any defence ſuſtained upon the benefite of a <hi>Poſſeſſo<g ref="char:EOLhyphen"/>ry Judgement,</hi> the firſt regiſtrat Seaſin being equal to a publick Infeftment ſince the Date of that Act.</p>
+               <p n="3">3. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eing in Preſcriptions both <hi>Titulus,</hi> and <hi>bona fides,</hi> are requiſite, that therefore one of the Parties privat knowledge of the Right of another, albeit not compleat, is, that he had a Diſpoſition, but no Infeftment put him <hi>in ma<g ref="char:EOLhyphen"/>la fide.</hi>
+               </p>
+               <p n="4">4. That all legal Interruptions ſhould be againſt the perſons themſelves, and not Co-debitors; And that Diligence againſt one Co-obligant, ſhould not preclude the other of the defence of Preſcription.</p>
+               <p n="5">5. That albeit Inhibitions be only negative Rights, yet the extent of them is become ſo exorbitant, that they are of far more Force and Effect nor an poſi<g ref="char:EOLhyphen"/>tive Right by Diſpoſition; And alſo in reſpect it is yet dubious from what time Inhibitions take effect, whether from the Date of the Execution againſt the Party, or at the Mercat Croſs of the Juriſdictions where the perſons dwell, or the Lands ly, or that it ſhall only take effect from the Date of the Regiſtra<g ref="char:EOLhyphen"/>tion, which ſeems to be more juſt, ſeing the Leidges are there only certiorat, the executing at Croſſes being now a meer Formality, paſſing without the not<g ref="char:EOLhyphen"/>tice of any, ſo that the only mean of knowing who is Inhibite, is by ſearch<g ref="char:EOLhyphen"/>ing the Regiſters:) Therefore, that it be enacted, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat in all time coming In<g ref="char:EOLhyphen"/>hibitions being raiſed and execute againſt the Party perſonally, and regiſtrat either in the general Regiſter, or Books of the Juriſdiction wherein he dwells, within 48 Hours thereafter, ſhall be valid from the Date of the ſaid Regiſtration, without any further Solemnity.</p>
+               <p>
+                  <hi>The reaſon why the Re<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>istration may be within ſuch ſhort time, is, becauſe the Execution is only to be againſt the Party perſonally, without any further Execution at Mercat-Croſſes where the Debitors Lands might ly, ſo that it took a conſiderable time before it could be done, but here where there is nothing re<g ref="char:EOLhyphen"/>quiſite but a perſonal Execution, it may be within</hi> 24 <hi>Hours carried to the Re<g ref="char:EOLhyphen"/>giſter, or Juriſdiction where the perſon inhibite dwells, and inſert in his Re<g ref="char:EOLhyphen"/>giſter or Minut-Book thereof.</hi>
+               </p>
+               <pb n="6" facs="tcp:97231:6"/>
+               <p n="6">6. <hi>Item,</hi> That Inhibitions run from the Date of the Regiſtration thereof, and not from the date of the Deed that is done contrair thereto.</p>
+               <p n="7">7. That Libels for Houſe-Mails, Merchants-Accompts, Servants-Fees, and the like, ſhall not be relevant, unleſs they alſo bear that they are reſting, owing, and that the ſame be only probable <hi>ſcripto,</hi> if the Debitor be dead and <hi>ſcripto vel juramento</hi> if living, and that therefore Merchants take Writ for what they furniſh bearing the Quantity and Price thereof.</p>
+            </div>
+            <div type="part">
+               <head>Of Voluntar Aſſignations and Legal Arreſtments.</head>
+               <p n="1">1. That where an Aſſignation is purchaſed for Money, or other good Deed from a perſon, that is not of Relation, or ſuch a perſon as would be thought not to have gifted the ſame, in ſuch a caſe (according to the common Law) the Aſſigney ſhall recover no more from the Debitor than he truly payed, or his Fact or Deed done by him can be eſtimat worth by the Judge Ordinar, and this to preveen &amp; diſcourage the taking and buying unneceſſarly the Debts reſting by others.</p>
+               <p n="2">2. That where the principal Writ aſſigned is delivered at the time, it ſhall be preferred to any other Aſſignation, tho' firſt intimat, the ſaid Writ being probable, and Poſſeſſion compleating the Right.</p>
+               <p n="3">3. That neither Inhibitions nor Arreſtments paſs of courſe, but by a ſpecial Deliverance of the Lords in preſence, or upon a Report, and upon inſtruct<g ref="char:EOLhyphen"/>ing ſufficiently, grounds for founding thereof, and that the Inhibition being only a perſonal Inhibition, that the Debitor put not his Eſtate in a worſe condition than it is at the time of the ſerving thereof: That therefore it ſub<g ref="char:EOLhyphen"/>ſiſt and ſtand good only for ſuch a Number of years as the Uſer may have time to conſtitute his Debt, and when conſtitute, or if it be liquid before, that he may have a competent time within which he may do legal Diligence by Adjudication, and that no Inhibition upon a dependance laſt longer than three years, unleſs real Diligence follow upon the Debt, which was the ground thereof, and that the Inhibiter conſent to the Sale, upon payment or Conſig<g ref="char:EOLhyphen"/>nation of the Price, or lending the ſame, ſo as it may bear Intereſt, which is more for the Inhibiters advantage.</p>
+               <p n="4">4. That all Arreſtments within year and day come in <hi>parip ſsu,</hi> or within a competent time, ſeing Adjudications and Appryſings which are the paralel Diligence as to heretable Rights, come in ſo; And the ſame Parity of Reaſon is in the arreſting of Moveables, that is, in the adjudging of Heretables, which is, that the Creditors may be abſent, and not know of the Debitors Eſtate and Condition, nor of his Moveables and Money, nor that he is <hi>vergens ad pauperi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m, &amp; ubi paratio eadem debet eſſe Lex.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of voluntar Diſpoſitions and legal Conveyances by Appryſing and Adjudication.</head>
+               <p n="1">1. That the firſt perſon who purchaſſes Lands, being infeft therein, and his Seaſin regiſtrat, there ſhall be nothing requiſit for eſtabliſhing the Right thereof in the perſon of his Heir, to whom by the Infeftment the ſame is pro<g ref="char:EOLhyphen"/>vided, whether Heirs of Line, or Male, but only an Service cognoſcing the Purſuer of the Brieve to be the perſon to whom by the Conception of the Infeftments the Fee doth belong, and this being retoured, ſhall be a ſuffici<g ref="char:EOLhyphen"/>ent Right to all ſucceeding Heirs, who are in like manner to be ſerved Heirs to the laſt retoured, which ſhall alſo be to them a compleat Right to the ſaids Lands, and a valid Title for all effects.</p>
+               <p n="2">2. That where Lands are not affected with Rights or Incumbrances, it ſhall not be leiſume to Appryſe or Adjudge the ſame, but that the old Brieve of Di<g ref="char:EOLhyphen"/>ſtreſs
+<pb n="7" facs="tcp:97231:6"/>ſhal be revived, direct to the Sheriff, who ſhal Adjudge as much Land to the Purſuer, to be valued by an Inqueſt, as will ſatisfie the Debts; and if the Lands be indiviſible, and worth more, that the Creditor pay it in, otherways the ſame to be null.</p>
+            </div>
+            <div type="part">
+               <head>Of Confiſcations, Eſcheats, Forfaultures, and the like.</head>
+               <p n="1">1. That Denunciations for not payment of Debts, the effect thereof ſhall only be for obtaining Caption and Payment of the Debt before others who have done no Diligence, and that the Eſcheat extend only to the Debt in the Horning.</p>
+               <p n="2">2. That no Eſcheat ſhall fall upon any Denunciation, except the Charge was given Perſonally, or that Acceſs was refuſed; ſeing by our Law Con<g ref="char:EOLhyphen"/>tumacy cannot be inferred without a Perſonal Citation, ſo far leſs ought it in this caſe, where the Certification is of ſo great an Import.</p>
+               <p n="3">3. That Charging Perſonally, and Denuncing at the Mercat Croſs of <hi>Edinburgh</hi> be ſufficient, and Regiſtration alſo there, which is ſufficient to cer<g ref="char:EOLhyphen"/>tiorat all the Liedges thereof.</p>
+               <p n="4">4. That Denunciations ſhall not prejudge any Party who <hi>bona fide</hi> get Ob<g ref="char:EOLhyphen"/>ligations for onerous Cauſes from the Rebel, or receives Payment of Debts reſting to him by the Rebel, at what ever time the ſame be contracted, ſeing if it were otherways, it would extreamly mar the freedom of Traffique and Commerce.</p>
+            </div>
+            <div type="part">
+               <head>Anent Succeſſion.</head>
+               <p n="1">1. That where an Heretor of Lands and Baronies, or Country-Tennents dies leaving only Daughters, that the eldeſt ſhould Succeed <hi>pro indiviſo,</hi> and that Women ſhall Succeed as if they were Males after the ſame manner, but with this Proviſion, that it ſhall be leiſum for the Father <hi>etiam in articulo mor<g ref="char:EOLhyphen"/>tis,</hi> to grant Bonds of Proviſion to other Daughters, not exceeding  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Years Rent of his Land, and which ſhall affect the ſame, in ſo far as there is not ſufficient Movables for doing thereof.</p>
+               <p n="2">2. That in regard many die without making timely Proviſions for their Children, it ſhall be leiſum for any man who is not a Baron, having his Lands erected in a Barony, to Diſpoſe of theſe Lands in favours of his Children <hi>etiam in articulo mortis.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Anent Heirs of all kinds.</head>
+               <p n="1">1. That where an Eſtate is devolved upon an Heir by the death of his Predeceſſor, ſo that it is either his neglect and fault, or fraud that he does not Enter, eſpecially ſince (in the mean time) he acts as Heretor, or Intromets with the Rents, at leaſt might do the ſame; that therefore all Debts contra<g ref="char:EOLhyphen"/>cted, or De<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eds done by him, ſhall affect the ſaid Eſtate, as if he were actually Infeft therein.</p>
+               <p n="2">2. That Liferenters ſhall only be lyable for Alimenting theſe Heirs who have no Competency left them, and deſcended of themſelves or their Huſ<g ref="char:EOLhyphen"/>bands; but no ways to be extended to Collateral Heirs, or theſe of Tailzie, not being deſcended as ſaid is, who are to be repute <hi>tanquam extranei</hi>
+               </p>
+               <p n="3">3. That the immediat younger Brother Succeed to the elder, whether in Conqueſt or Heretage, and tho' of different Marriages, unleſs the ſaid elder Brother have full Brethren and Siſters, in which caſe they are to be preferred to the Succeſſion as before.</p>
+               <pb n="8" facs="tcp:97231:7"/>
+               <p n="4">4. That where an Eſtate is devolved by the Death of a Predeceſſor upon the Apparent Heir, that he ſhall be perſonally lyable for the Predeceſſors Debt, unleſs he give an ample Renunciation to be Heir, and Record it either in the General Regiſter, or of the Shire where he dwells; and that there be no more libelled againſt him, but that he has not recorded the Renunciation within the Year, to infer the Paſſive Titles againſt him: And by this the great and unneceſſar Trouble given to all the Defuncts Creditors of raiſing and executing Charges to enter Heir, is cut off.</p>
+               <p n="5">5. That it ſhall be leiſum to any Creditor of a Defunct, to uſe ſummarly Ad<g ref="char:EOLhyphen"/>judication of his Eſtate and that inſtantly for payment of the Defunct his own Debt, without any further, but calling the Appearand Heir as Defender: And this will only be equivalent to the Confirming Executor-Creditor to him in his Movables.</p>
+            </div>
+            <div type="part">
+               <head>Of Behaving as Heir and Lucrative Succeſſor.</head>
+               <p n="1">1. That in regard by the 24 <hi>Act, Seſſ.</hi> 5. of this current Parliament, Heirs are allowed to Enter <hi>cum beneficio inventarii,</hi> to be made up within the Year and Day of Deliberating; and in regard the ſaid Act does not take under Conſidera<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion the caſes of Apparent Heirs, who neither entered nor behaved as Heirs, prior to the date of the ſaid Act: For remeed whereof, that it be yet Statute and Ordained, that where Heirs are unentered to the Eſtates devolved upon them, and to which they are Apparent Heirs, prior to the date of the ſaid Act, that it ſhall be leiſum for them yet to enter Heirs to their Predeceſſors <hi>cum beneficio inventarii,</hi> in the Terms of the ſaid Act, and that within Year and Day after the Promulgation of the Act to be made here<g ref="char:EOLhyphen"/>anent.</p>
+               <p n="2">2. That an Apparent Heirs receiving a Diſpoſition from his Father or Pre<g ref="char:EOLhyphen"/>deceſſor to whom he is to Succeed, ſhall not infer an univerſal Paſſive Title, but make him only lyable <hi>pro valore;</hi> and if it be granted for an onerous Cauſe, ſuch as in an Contract of Marriage or the like, it ſhal only be reduceable upon the head of Fraud, and being granted to the Prejudice of his lawful Creditors, to an conjunct perſon.</p>
+            </div>
+            <div type="part">
+               <head>Of Teſtaments, Confirmations thereof, and others relating thereto.</head>
+               <p n="1">1. That ſeing the ground and reaſon of Law for confirming of Teſtaments, is, <hi>
+                     <g ref="char:V">Ʋ</g>t bona ſint ſalva pupillis &amp; creditoribus,</hi> that therefore, where the near<g ref="char:EOLhyphen"/>eſt of Kin are Majors, there ſhall be no neceſſity for them to confirm, nor any Dative made in that caſe; and that Creditors may Confirm, and Purſue to give up Inventar, or to make Payment, as vitious Intrometters, at their pleaſure.</p>
+               <p n="2">2. That the Husband ſhall not be obliged to Confirm the Wifes Teſta<g ref="char:EOLhyphen"/>ment, nor give up Inventar thereof, ſeing he was and is <hi>Dominus,</hi> and may alienat and diſpoſe of his Movables during his life, and the Wifes-Right is only by vertue of the Diviſion that falls between the Husbands neareſt of Kin and the Wife, in caſe that ſhe ſurvive him.</p>
+               <p n="3">3. That the eldeſt Son or Daughter ſhall have a double Portion of the Movables where there is not an Heir, ſo that ſhe or he Succeed not as ſuch.</p>
+               <p n="4">4. That Daughters married in the Fathers Life ſhall have no right of Suc<g ref="char:EOLhyphen"/>ceſſion or Intereſt in his Eſtate, but what is expreſly provided in caſe there be moe Children, and if there be none, ſhe is to ſucceed as accords.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:97231:7"/>
+               <head>Anent the Foru<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Proceſſes and payment of Advocats and Clerks, <hi>&amp;c.</hi>
+               </head>
+               <p n="1">1. That the Act of Sederunt be ratified, appointing two Lords to come each Forenoon to a place erected for that end, and there <hi>per Vices</hi> to call <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd finally diſcuſs and determine what Cauſes ly before them undiſcuſt, whereby the intollerable trouble and pains both Lords, Advocats, Clerks and Clients are put to in attending the whole Afternoon for getting ſuch Cauſes called will be prevented.</p>
+               <p n="2">2. That the Act of Regulations made <hi>in anno</hi> 1672, anent the modifying Sallaries to Advocats, Clerks and others be totally reſcinded, and all Reno<g ref="char:EOLhyphen"/>vations, Ratifications thereof and others preceeding the date hereof relative thereto, as being burdenſome and impracticable both to them and Clients, and that they be payed as before that Act at the Diſcretion of the Clients.</p>
+               <p n="3">3. That where Interloquitor or Sentence is pronounced, and Bills one or moe given in reclaiming againſt the ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me, and which is refuſed by the Lords, that neither the ſame nor no other Bill be inſert in the Act or Decreet, but ſuch as he in whoſe favours the ſame is, ſhall deſire and think fit to have inſert therein, and that the ſaids Regulations and all ſub<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>equent ſtand in their full force as to all the other Articles thereof, except what is hereby altered as ſaid is.</p>
+            </div>
+            <div type="part">
+               <head>Anent the Sale of Bankrupts Lands.</head>
+               <p n="1">1. That in regard by the Act of Parliament the  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  day of <hi>September</hi> 1681, <hi>Anent the Sale of Bankrupts Lands,</hi> There is no warrand or appoint<g ref="char:EOLhyphen"/>ment for citeing the Creditors to hear Probation led of the Rental and Value of the Bankrupts Eſtate, which being in abſence as to the Creditors, may tend to their loſs and prejudice. <hi>Therefore</hi> it be Statute, that the real Creditors who are in actual poſſeſſion of ſuch Eſtates by Laboring the ſame or ſetting Tacks thereof, be cited to the leading of the Probation of the Rental and Value of the Lands to be Rouped, and that there ſhall be no other Citati<g ref="char:EOLhyphen"/>on or intimation req<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſit to be made to the ſaids Creditors or Bankrupt in any ſubſequent ſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p of the Proceſs, but that it ſhall be ſufficient that they be cited thereto <hi>apud acta,</hi> and in ſpecial as to the time and place of the Roup; And farder to declare, that in all time coming there ſhall be no neceſſity on the Purſuer of the Roup of uſing intimations at the Paroch Churches and Mercat Croſſes mentioned in the ſaid Act, but that it ſhall be a ſufficient In<g ref="char:EOLhyphen"/>timation to the Creditors that they be cited thereto <hi>apud acta</hi> only as ſaid is, and if the Creditors or Bankrupt think fit, that it ſhall be leiſum for them to raiſe Letters in the Purſuers name to intimate the ſaid Roup, the time and place thereof, at whatever Mercat-Croſſes, Kirk-Doors or other places what<g ref="char:EOLhyphen"/>ſomever they ſhall think fit, and wherever they conceive or apprehend Merchants or Buyers of the ſaids Lands may be found, but that the Purſuer ſhall not be oblidged to do the ſame, notwithſtanding of that Clauſe in the ſaid Act of parliament, which is in ſo far hereby diſpenſed with. <hi>Lakeas</hi> that it be furder declared, That where Decreets of Sale are pronounced and ex<g ref="char:EOLhyphen"/>tracted, That they ſhall not be quarrellable upon any ground or nullity by any of the ſaids Creditors, cited as ſaid is, but that the ſame ſhad be as valid and ſufficient a Security to the Buyer, as if the ſaids Creditors had diſponed or conſented thereto under their hands, and that the ſamen ſhall alſo be un<g ref="char:EOLhyphen"/>quarrellable at the inſtance of any other perſon, whether Creditor or Author to the Bankrupt or any way may pretend to have Right or Intereſt to the ſaids Lands, whether by Rights following from the Bankrupt or any other his
+<pb n="10" facs="tcp:97231:8"/>predeceſſors or Authors whatſomever: <hi>And farder,</hi> that it be declared, that in regard great Obſtructions are made in the buying of Lands at Roups throw the purchaſers not getting the price taken off his hand, occaſioned by the Jangling and Competitions that falls out amongſt the Creditors anent the ſame. For Remeid whereof, That it be Statute, that it ſhall be leiſum for the Buyer after the elapſing of year and day to conſign the ſaid price either in <hi>ſpecie</hi> or Aſſignations to ſufficient Bonds or Debts in the Clerks of the Proces hands, and that due Intimation be made to the Creditors cited as ſaid is, that the Buyer is to do the ſame by a Nottar and Inſtrument, and that the ſaid price being ſo conſigned or Aſſignations to Debts as ſaid is, That the ſaid Clerk ſhall in<g ref="char:EOLhyphen"/>timat the ſame to the Lords, and thereupon they are to ordain an Act to be made, declaring that he has conſigned the price or Aſſignations as ſaid is; And therefore diſcharging the Buyer of the Price of the ſaids Lands, and that the ſame ſhall be als valid and effectual for freeing and acquitting him there<g ref="char:EOLhyphen"/>frae at the hands of all perſons whatſomever in all time coming, as if the ſa<g ref="char:EOLhyphen"/>men had been granted by the whole Creditors themſelves; <hi>As alſo,</hi> that in regard when Debitors break, they abſtract or carry away with them the Rights and Securities of their Lands, ſo that it is not poſſible to get or make up a ſufficient Progreſs to the ſaids Lands, That therefore it be Statute and or<g ref="char:EOLhyphen"/>dained, that if the Debitor was infeft in the ſaids Lands or had a Real Right there to, either by expyred Appriſing or voluntar Diſpoſition, and by vertue thereof has been in Poſſeſſion for the ſpace of—years; That then and in that caſe the Production of the ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id Seaſin, or Real Rights foreſaid, whereupon no Infeftment has followed, ſhall be held and repute a ſufficient and valid Right in the perſon of the Debitor, without any farder neceſſity for the Cre<g ref="char:EOLhyphen"/>ditors to give or the Buyers of the ſaids Lands to crave any other Title or Progreſs to the ſaids Lands for ſtateing the Right thereof in the Debitors per<g ref="char:EOLhyphen"/>ſon, but only as ſaid is, and that the ſaid Seaſin or Real Right foreſaid, where<g ref="char:EOLhyphen"/>upon no Infeftment has followed ſhall be held and repute in Law a ſufficient Right to the ſaids Lands to the Buyer thereof, at the Roup without any far<g ref="char:EOLhyphen"/>der Progreſs.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
